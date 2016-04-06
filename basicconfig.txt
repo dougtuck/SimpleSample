@@ -7,7 +7,7 @@
   type: teacher
 },
 {
-  name: mixed
+  name: mixed2
   type: test
 }
 
