@@ -7,7 +7,7 @@
   type: teacher
 },
 {
-  name: mixed2
+  name: remoteChange
   type: test
 }
 
