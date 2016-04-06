@@ -5,6 +5,11 @@
 {
   name: shawzall,
   type: teacher
+},
+{
+  name: mixed
+  type: test
 }
+
 
 
